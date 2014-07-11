@@ -1,0 +1,8 @@
+初始化一个Git仓库，使用git init命令。
+git add 文件名
+git commit -m "注释"
+git status 查看状态
+git diff 查看版本差异
+git log 查看版本日志
+git reflog 查看历史命令
+git reset --hard commit_id 回退到某个版本
