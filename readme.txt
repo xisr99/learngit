@@ -3,3 +3,4 @@ Git is free software.
 Git has a mutable index called stage.
 Git tracks changes
 Git changes 2
+Switched to branch 'dev'
